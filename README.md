@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning/studying ... JavaScript, Solidity, Pact, Algebraic Topology
 - 👯 I’m looking to collaborate on ... web3 Projects/DApps 
 - 🗣 I speak ... English 🇬🇧, French 🇫🇷, Dutch 🇳🇱, Moldovan (nu este încă fluent 🙂) 🇲🇩
-- 📫 How to reach me: ... tobycarlo.c@gmail.com | tobycarlo@protonmail.com
+- 📫 How to reach me: ... tobycarlo.c@gmail.com -=+=- tobycarlo@protonmail.com
